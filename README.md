@@ -26,11 +26,3 @@ Best Car Predictor From Descriptions Sentiment Analysis project analyzes the sen
 ## Results
 
 Explore the sentiments of different cars through visualizations and sentiment scores provided in the output. The project emphasizes interpretability and ease of use for users seeking a comprehensive sentiment overview of multiple cars.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or suggest improvements by creating pull requests.
-
-Happy Sentiment Analyzing!
